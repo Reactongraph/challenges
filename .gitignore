@@ -1,2 +1,4 @@
 .nyc_output
+temp_auto_push.bat
 coverage
+.gitignore
